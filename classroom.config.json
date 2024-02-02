@@ -1,13 +1,13 @@
 {
-  "org": "os-lecture",
+  "org": "cse410",
   "classrooms": [
     {
-      "name": "123707571-2023s-os-ucore-classroom",
-      "assignments": ["2023S-uCore"],
+      "name": "155701872-cse410",
+      "assignments": ["uCore-RV-64-base", {"branches": ["ch0", "ch1", "ch2", "ch3", "ch4", "ch5", "ch6", "ch7", "ch8"]}],
       "studentBlacklist": []
     }
   ],
   "website": {
-    "title": "2023S-OS-uCore"
+    "title": "2024SS-CSE410"
   }
 }
